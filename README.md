@@ -1,4 +1,4 @@
-## amanhimself.dev
+ ## amanhimself.dev
 
 Personal website [amanhimself.dev](https://amanhimself.dev/) made with [Astro](https://astro.build/) and [AstroPaper](https://github.com/satnaing/astro-paper).
 
